@@ -6,14 +6,14 @@ class BoardMember {
   }
 
     veto(){
-      returns `No, I must disagree`
+      return `No, I must disagree`
     }
 
     approve(){
-      returns `You can do that!`
+      return `You can do that!`
     }
 
     doCharity(){
-      returns `I like to help people.`
+      return `I like to help people.`
     }
 }
