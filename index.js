@@ -12,4 +12,8 @@ class BoardMember {
     approve(){
       returns "You can do that!"
     }
+
+    doCharity(){
+      returns "I like to help people."
+    }
 }
